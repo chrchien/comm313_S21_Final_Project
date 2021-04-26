@@ -1,5 +1,3 @@
-## My final project for COMM313 _Computational Text Analysis for Communication Research_ (Spring 21)
+## Fade for Cade or Eyes on the Prize? - The Effect of Team Expectations On Post-Game Social Media Discourse
 
-* You will edit this file to act as the main index page for your project 
-
-* Change the title and write an overview of your project and description of the content.
+For this project, I have collected all the comments from the 2020-21 NBA season post-game threads posted on the r/nba Reddit subreddit pertaining to the Brooklyn Nets (the current #1 seed and one of this year's title contenders) and the Detroit Pistons (the current bottom seed and one of this year's contenders... for the #1 draft pick next season). My aim is to investigate what effect, if any, that team expectations have on post-game social media discourse, which is operationalized through these Reddit comments. My initial hunch tells me that fans of a tanking team will be less critical in comparison to fans of a contending team.
